@@ -6,3 +6,8 @@ KarlaGraciano
 
 ## Descripcion
 Sistema basico para registrar estudantes.
+
+## Funcionalidades
+Registro de estudiantes.
+Consulta de estudiantes.
+Controlde versiones con Git.
